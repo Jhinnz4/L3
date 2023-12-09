@@ -12,8 +12,8 @@
   * Chef de projet imagerie
   * Chercheur
 * #### 3D:
-Lead programmeur 3D(animation, film, simulation ...)
-Chercheur(nombreux secteur donc le médical)
+ * Lead programmeur 3D(animation, film, simulation ...)
+ * Chercheur(nombreux secteur donc le médical)
 
 ## Compétences acquises
 * ### image:
