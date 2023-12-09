@@ -97,6 +97,18 @@ Faut comprendre que c'est un secteur en full expension qui évolue super vite et
 * Tableau d’indices de sommet F|F = {f ∈ P3} (Indices de sommets)
     #### Pourquoi des triangles ?
     ▶ Primitive de surface
-    
+
     ▶ 3 points suffisent pour déterminer un plan, une surface
     ![Logo de Markdown](maillage1.png)
+### A retenir d'après la diapo
+![Logo de Markdown](ARetenirPro.png)
+## Visualisation
+En gros c'est des données 3D converti en image 2D
+Pour faire ça on c'est inspiré de la nature c'est à dire:
+* Un objet sans lumière on le voit pas, en réalité c'est le reflet de l'objet qu'on voit quand la lumière le touche et ça arrive à nos yeux.
+* La lumière c'st une onde éléctro-magnétique, cf spectre lumineux cours du collège mdr
+### La vrai définition c'est que l'onde electro-magnetique c'est ça comme paramètres:
+▶ Onde transversale
+▶ Fréquence
+▶ Longueur d’onde λ (nm)
+▶ Irradiance (Energie)
