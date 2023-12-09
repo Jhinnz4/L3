@@ -85,4 +85,5 @@ En fonction des coûts choisis pour chaque opération et de l’Algorithme, le r
 - Nombreux stages et projets, Apprentissage par projet ⇒ compétences par la pratique :
   - S1, S3 : Projet bibliographique.
   - S2 : Stage court (3 mois).
-  - S4 : Stage long (6 mois).![Logo de Markdown](images/image4.png)
+  - S4 : Stage long (6 mois).
+  ![Logo de Markdown](images/image4.png)
