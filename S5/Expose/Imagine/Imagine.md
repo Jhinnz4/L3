@@ -40,15 +40,15 @@ Du coup faut faire attention de ce qu'on en fait et surtout pas forcéments croi
 * Analyse de la sémantique (avec un outils comme google lens par exemple ou recherche inversé)
 * Les metadonnées de image (EXIF), ça contient bcp de données sur les images
 * On peut faire une carte de bruit de l'image (en gros on remplace les couleurs de l'image par des ton de pixel noir et blanc ex:)
-![Logo de Markdown](bruit.png)
+![Logo de Markdown](images/bruit.png)
 * Analyse de la distortion radial
-![Logo de Markdown](distortion.png)
+![Logo de Markdown](images/distortion.png)
 * Détection d’une recompression JPEG
-![Logo de Markdown](recompression.png)
+![Logo de Markdown](images/recompression.png)
 * Approche vision par ordinateur (ombre, lumière, taille, ...)
-![Logo de Markdown](approcheordi.png)
+![Logo de Markdown](images/approcheordi.png)
 ## C'est un gros challenge notamment contre la propagande. Du coup il existe des outils pour utiliser les solutions qu'on a vu:
-![Logo de Markdown](outils.png)
+![Logo de Markdown](images/outils.png)
 # Professionnelle - Présentation
 ### sebastien beugnon
 ### Premier film avec des effets numériques
@@ -99,9 +99,9 @@ Faut comprendre que c'est un secteur en full expension qui évolue super vite et
     ▶ Primitive de surface
 
     ▶ 3 points suffisent pour déterminer un plan, une surface
-    ![Logo de Markdown](maillage1.png)
+    ![Logo de Markdown](images/maillage1.png)
 ### A retenir d'après la diapo
-![Logo de Markdown](ARetenirPro.png)
+![Logo de Markdown](images/ARetenirPro.png)
 ## Visualisation
 En gros c'est des données 3D converti en image 2D
 Pour faire ça on c'est inspiré de la nature c'est à dire:
@@ -134,11 +134,11 @@ La 2D c'est comme de l'animation papier, c'est à dire qu'on refait grossièreme
 ### 3D
 On crée des jointures au niveau des membre rotatif (genou, coude etc)
 et ensuite on vient crée le mouvement de ses jointure, cf la photo en dessous
-![Logo de Markdown](jointure3D.png)
+![Logo de Markdown](images/jointure3D.png)
 ## Motion Capture
 J'pense tout le monde voit ce que c'est (cf le seigneur des anneaux avec gollum)
 ## Programmation
 Pour programmer on utilise des API, cf la photo:
-![Logo de Markdown](API.png)
+![Logo de Markdown](images/API.png)
 ## Attente de l'industrie
-![Logo de Markdown](Attente.png)
+![Logo de Markdown](images/Attente.png)
