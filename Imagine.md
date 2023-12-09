@@ -115,3 +115,30 @@ Pour faire ça on c'est inspiré de la nature c'est à dire:
 ▶ Longueur d’onde λ (nm)
 
 ▶ Irradiance (Energie)
+### Bref, l'idée du trucs c'est lancer des rayons de lumière (comme dans la vrai vie) pour voir ou non les object, les moteurs fonctionne comme ça, cf raycasting pour ceux qui veulent comprendre + les moteurs de jeu
+## Interface Homme-Machine
+L'idée la c'est de communiquer avec l'homme et la machine via le jeu/logiciel
+on peut faire ça soit de manière visuel cf le GPS de the crew ou d'un autre jeu ou on voit vraiment une ligne sur le sol
+ou alors on peut aussi integrer ça au jeu de manière coherente genre firewatch et la carte qui est un élements du jeu + que juste une information visuel.
+## Realité augmenté & virtuelle
+C'est utilisé comme un jeu mais mtn c'est très très utilisé dans la formation pro, ex:
+#### VR
+* Conducteur d'engin (gros tractopelle, grue etc)
+#### AR
+* Pokemon GO
+* GOOGLE GLASS
+
+## Animation
+### 2D
+La 2D c'est comme de l'animation papier, c'est à dire qu'on refait grossièrement une image de mouvement à l'autre
+### 3D
+On crée des jointures au niveau des membre rotatif (genou, coude etc)
+et ensuite on vient crée le mouvement de ses jointure, cf la photo en dessous
+![Logo de Markdown](jointure3D.png)
+## Motion Capture
+J'pense tout le monde voit ce que c'est (cf le seigneur des anneaux avec gollum)
+## Programmation
+Pour programmer on utilise des API, cf la photo:
+![Logo de Markdown](API.png)
+## Attente de l'industrie
+![Logo de Markdown](Attente.png)
