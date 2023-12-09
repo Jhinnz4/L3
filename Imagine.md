@@ -41,6 +41,10 @@ Du coup faut faire attention de ce qu'on en fait et surtout pas forcéments croi
 * Les metadonnées de image (EXIF), ça contient bcp de données sur les images
 * On peut faire une carte de bruit de l'image (en gros on remplace les couleurs de l'image par des ton de pixel noir et blanc ex:)
 ![Logo de Markdown](bruit.png)
-
-
+* Analyse de la distortion radial
+![Logo de Markdown](distortion.png)
+* Détection d’une recompression JPEG
+![Logo de Markdown](recompression.png)
+* Approche vision par ordinateur (ombre, lumière, taille, ...)
+![Logo de Markdown](approcheordi.png)
 # Professionnelle - Présentation
