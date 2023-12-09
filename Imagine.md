@@ -97,5 +97,6 @@ Faut comprendre que c'est un secteur en full expension qui évolue super vite et
 * Tableau d’indices de sommet F|F = {f ∈ P3} (Indices de sommets)
     #### Pourquoi des triangles ?
     ▶ Primitive de surface
+    
     ▶ 3 points suffisent pour déterminer un plan, une surface
     ![Logo de Markdown](maillage1.png)
