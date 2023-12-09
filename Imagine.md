@@ -47,4 +47,6 @@ Du coup faut faire attention de ce qu'on en fait et surtout pas forcéments croi
 ![Logo de Markdown](recompression.png)
 * Approche vision par ordinateur (ombre, lumière, taille, ...)
 ![Logo de Markdown](approcheordi.png)
+## C'est un gros challenge notamment contre la propagande. Du coup il existe des outils pour utiliser les solutions qu'on a vu:
+![Logo de Markdown](outils.png)
 # Professionnelle - Présentation
