@@ -45,7 +45,8 @@ Pour tenter de trouver une Homologie on doit résoudre 3 problèmes :
 - L’alignement de séquences est la principale méthode de comparaison.
 - Comparer des séquences serait relativement simple si elles avaient toutes la même longueur.
 - On cherche donc à les aligner (cf distance d’edition).
-
+https://moodle.umontpellier.fr/pluginfile.php/1968051/mod_resource/content/4/Cours4-ProgDyn.pdf
+![Logo de Markdown](images/image1.png)
 En fonction des coûts choisis pour chaque opération et de l’Algorithme, le résultat peut varier.
 
 ### 3. Phylogénie
@@ -54,7 +55,7 @@ En fonction des coûts choisis pour chaque opération et de l’Algorithme, le r
 - Il n’y a pas un arbre universel, tout dépend des traits/caractéristiques étudiés (ex. : Phylogénie moléculaire vs caractères morphologiques).
 - Plusieurs méthodes de reconstruction existent : parcimonie, distances, Maximum de Vraisemblance, Bayésiennes.
 - Unweight Pair Group Method with Arithmetic Mean (UPGMA) est un algorithme qui passe de la matrice du vivant à l’arbre.
-
+![Logo de Markdown](images/image2.png) ![Logo de Markdown](images/image3.png)
 ## Dates Historiques
 
 - 1736 : Naissance de la théorie des graphes, Leonhard Euler.
@@ -84,4 +85,4 @@ En fonction des coûts choisis pour chaque opération et de l’Algorithme, le r
 - Nombreux stages et projets, Apprentissage par projet ⇒ compétences par la pratique :
   - S1, S3 : Projet bibliographique.
   - S2 : Stage court (3 mois).
-  - S4 : Stage long (6 mois).
+  - S4 : Stage long (6 mois).![Logo de Markdown](images/image4.png)

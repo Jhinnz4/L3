@@ -1,3 +1,5 @@
+### Avant tout pour comprendre l'imagerie voici une vidéo qui explique ça en 1min:
+- [Imagine - Le Parcours](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 # Presentation imagine:
 ## Résponsable:
 * William Puech
