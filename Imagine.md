@@ -109,6 +109,9 @@ Pour faire ça on c'est inspiré de la nature c'est à dire:
 * La lumière c'st une onde éléctro-magnétique, cf spectre lumineux cours du collège mdr
 ### La vrai définition c'est que l'onde electro-magnetique c'est ça comme paramètres:
 ▶ Onde transversale
+
 ▶ Fréquence
+
 ▶ Longueur d’onde λ (nm)
+
 ▶ Irradiance (Energie)
