@@ -109,7 +109,7 @@ Aujourd'hui, la traduction automatique existe et peut être utile pour traiter d
 4. Puis en les combinant, à une phrase, à un texte etc.
 - Mesure de similarité thématique: produit scalaire. Calcul très rapide. Nécessite beaucoup de données (Internet)  ex : Roi -- Homme -> Reine
 
-## Apprentissage automatique,  - [machine learning](https://www.youtube.com/watch?v=0b2e_ANYtIE) 
+## Apprentissage automatique, [machine learning](https://www.youtube.com/watch?v=0b2e_ANYtIE) 
 - On apprend des fonctions de séquence vers des séquences: Nécessite de grandes capacités de calcul et Beaucoup de données, Aucune preuve de convergence
 ![Logo de Markdown](images/image2.png)
 
