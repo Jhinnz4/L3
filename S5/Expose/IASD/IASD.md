@@ -146,4 +146,6 @@ Aujourd'hui, la traduction automatique existe et peut être utile pour traiter d
 ## Conclusions
 - Pas grand-chose de radicalement nouveau : Statistiques et probabilités anciennes, Réseaux de neurones (années 80), Apprentissage
 - NLP = Natural Language Processing
+- ML = Machine learning
+- DL = Deep learning
 ![Logo de Markdown](images/IASD.png)
